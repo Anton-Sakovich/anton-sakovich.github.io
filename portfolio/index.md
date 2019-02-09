@@ -21,9 +21,9 @@ Besides Wolfram Language, I have some experience in C#, which I use when I need 
 
 ### Interests
 
-In a nutshell, I adore modeling things. My interests shifted from physics to programming when I realized that It doesn't really matter to me what to model, it is modeling itself that I like.
+In a nutshell, I adore modeling things. My interests shifted from physics to programming when I realized that it didn't really matter to me what to model, it was modeling itself that I liked.
 Thus, my current aim is to learn programming from *programmers' viewpoint*, for I think programmers have achieved a lot of success in building efficient strategies of modeling things, what
-making a program is about.
+making a program is about. Then, I would like to leave physics completely and devote myself to the process of modeling itself.
 
 ## Open .NET Training
 
