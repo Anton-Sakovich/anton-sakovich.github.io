@@ -30,3 +30,4 @@ making a program is about. Then, I would like to leave physics completely and de
 As required, here I will post links to repositories for tasks submitted to Padawans.
 
 * [FancyCalc](https://github.com/Anton-Sakovich/FancyCalc)
+* [PadawansTask1](https://github.com/Anton-Sakovich/PadawansTask1)
