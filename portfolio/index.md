@@ -32,3 +32,4 @@ As required, here I will post links to repositories for tasks submitted to Padaw
 * [FancyCalc](https://github.com/Anton-Sakovich/FancyCalc)
 * [PadawansTask1](https://github.com/Anton-Sakovich/PadawansTask1)
 * [PadawansTask2](https://github.com/Anton-Sakovich/PadawansTask2)
+* [PadawansTask3](https://github.com/Anton-Sakovich/PadawansTask3)
