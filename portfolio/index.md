@@ -36,3 +36,4 @@ As required, here I will post links to repositories for tasks submitted to Padaw
 * [PadawansTask4](https://github.com/Anton-Sakovich/PadawansTask4)
 * [PadawansTask5](https://github.com/Anton-Sakovich/PadawansTask5)
 * [PadawansTask6](https://github.com/Anton-Sakovich/PadawansTask6)
+* [PadawansTask7](https://github.com/Anton-Sakovich/PadawansTask7)
