@@ -40,6 +40,7 @@ As required, here I will post links to repositories for tasks submitted to Padaw
 * [PadawansTask8](https://github.com/Anton-Sakovich/PadawansTask8)
 * [PadawansTask9](https://github.com/Anton-Sakovich/PadawansTask9)
 * [PadawansTask10](https://github.com/Anton-Sakovich/PadawansTask10)
+* [PadawansTask11](https://github.com/Anton-Sakovich/PadawansTask11)
 * [PadawansTask12](https://github.com/Anton-Sakovich/PadawansTask12)
 * [PadawansTask13](https://github.com/Anton-Sakovich/PadawansTask13)
 * [PadawansTask15](https://github.com/Anton-Sakovich/PadawansTask15)
