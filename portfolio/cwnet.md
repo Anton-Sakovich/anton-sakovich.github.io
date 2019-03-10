@@ -8,12 +8,12 @@
 - [x] https://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
 - [x] https://www.codewars.com/kata/getnames
 - [x] https://www.codewars.com/kata/singleton-adam-and-eve/train/csharp
-- [ ] https://www.codewars.com/kata/building-blocks/train/csharp
-- [ ] https://www.codewars.com/kata/building-spheres
+- [x] https://www.codewars.com/kata/building-blocks/train/csharp
+- [x] https://www.codewars.com/kata/building-spheres
 - [ ] https://www.codewars.com/kata/constructing-a-car-number-1-engine-and-fuel-tank
 - [ ] https://www.codewars.com/kata/constructing-a-car-number-2-driving
-- [ ] https://www.codewars.com/kata/adapter-pattern-geese-to-ducks
-- [ ] https://www.codewars.com/kata/patterncraft-strategy
+- [x] https://www.codewars.com/kata/adapter-pattern-geese-to-ducks
+- [x] https://www.codewars.com/kata/patterncraft-strategy
 
 ### Basic C# coding
 - [x] https://www.codewars.com/kata/function-1-hello-world
