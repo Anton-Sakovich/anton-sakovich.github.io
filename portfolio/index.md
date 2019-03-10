@@ -27,6 +27,12 @@ making a program is about. Then, I would like to leave physics completely and de
 
 ## Open .NET Training
 
+### Codewars
+
+My codewars account is [Ph.Nerd.Anton](https://www.codewars.com/users/Ph.Nerd.Anton). My progress on the open .net training katas can be found [here](https://anton-sakovich.github.io/portfolio/cwnet).
+
+### Padawans.NET
+
 As required, here I will post links to repositories for tasks submitted to Padawans.
 
 * [FancyCalc](https://github.com/Anton-Sakovich/FancyCalc)
