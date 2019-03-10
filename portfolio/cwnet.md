@@ -3,11 +3,11 @@
 **Account:** https://www.codewars.com/users/Ph.Nerd.Anton
 
 ### OOP
-- [ ] https://www.codewars.com/kata/basic-subclasses-adam-and-eve
-- [ ] https://www.codewars.com/kata/fun-with-es6-classes-number-1-people-people-people
-- [ ] https://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
-- [ ] https://www.codewars.com/kata/getnames
-- [ ] https://www.codewars.com/kata/singleton-adam-and-eve/train/csharp
+- [x] https://www.codewars.com/kata/basic-subclasses-adam-and-eve
+- [x] https://www.codewars.com/kata/fun-with-es6-classes-number-1-people-people-people
+- [x] https://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
+- [x] https://www.codewars.com/kata/getnames
+- [x] https://www.codewars.com/kata/singleton-adam-and-eve/train/csharp
 - [ ] https://www.codewars.com/kata/building-blocks/train/csharp
 - [ ] https://www.codewars.com/kata/building-spheres
 - [ ] https://www.codewars.com/kata/constructing-a-car-number-1-engine-and-fuel-tank
