@@ -11,7 +11,7 @@
 - [x] https://www.codewars.com/kata/building-blocks/train/csharp
 - [x] https://www.codewars.com/kata/building-spheres
 - [x] https://www.codewars.com/kata/constructing-a-car-number-1-engine-and-fuel-tank
-- [ ] https://www.codewars.com/kata/constructing-a-car-number-2-driving
+- [x] https://www.codewars.com/kata/constructing-a-car-number-2-driving
 - [x] https://www.codewars.com/kata/adapter-pattern-geese-to-ducks
 - [x] https://www.codewars.com/kata/patterncraft-strategy
 
