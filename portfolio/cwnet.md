@@ -37,9 +37,9 @@
 - [ ] https://www.codewars.com/kata/sortable-shapes
 
 ### Data Structures
-- [ ] https://www.codewars.com/kata/convert-a-linked-list-to-a-string
-- [ ] https://www.codewars.com/kata/reverse-a-singly-linked-list
-- [ ] https://www.codewars.com/kata/parse-a-linked-list-from-a-string
-- [ ] https://www.codewars.com/kata/fun-with-lists-map
+- [x] https://www.codewars.com/kata/convert-a-linked-list-to-a-string
+- [x] https://www.codewars.com/kata/reverse-a-singly-linked-list
+- [x] https://www.codewars.com/kata/parse-a-linked-list-from-a-string
+- [x] https://www.codewars.com/kata/fun-with-lists-map
 - [ ] https://www.codewars.com/kata/fun-with-trees-array-to-tree
 - [ ] https://www.codewars.com/kata/57dd79bff6df9b103b00010f
