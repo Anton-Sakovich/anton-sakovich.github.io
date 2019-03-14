@@ -22,7 +22,7 @@
 - [x] https://www.codewars.com/kata/basics-03-strings-numbers-and-calculation
 - [x] https://www.codewars.com/kata/indexed-capitalization
 - [x] https://www.codewars.com/kata/rgb-to-hex-conversion
-- [ ] https://www.codewars.com/kata/basics-06-reversing-and-combining-text
+- [x] https://www.codewars.com/kata/basics-06-reversing-and-combining-text
 - [ ] https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 - [x] https://www.codewars.com/kata/convert-a-number-to-a-string
 - [ ] https://www.codewars.com/kata/convert-a-string-to-an-array
@@ -41,5 +41,5 @@
 - [x] https://www.codewars.com/kata/reverse-a-singly-linked-list
 - [x] https://www.codewars.com/kata/parse-a-linked-list-from-a-string
 - [x] https://www.codewars.com/kata/fun-with-lists-map
-- [ ] https://www.codewars.com/kata/fun-with-trees-array-to-tree
-- [ ] https://www.codewars.com/kata/57dd79bff6df9b103b00010f
+- [x] https://www.codewars.com/kata/fun-with-trees-array-to-tree
+- [x] https://www.codewars.com/kata/57dd79bff6df9b103b00010f
