@@ -33,8 +33,8 @@
 - [x] https://www.codewars.com/kata/basics-05-text-search
 - [x] https://www.codewars.com/kata/build-tower
 - [x] https://www.codewars.com/kata/mylanguages
-- [ ] https://www.codewars.com/kata/moving-zeros-to-the-end
-- [ ] https://www.codewars.com/kata/sortable-shapes
+- [x] https://www.codewars.com/kata/moving-zeros-to-the-end
+- [x] https://www.codewars.com/kata/sortable-shapes
 
 ### Data Structures
 - [x] https://www.codewars.com/kata/convert-a-linked-list-to-a-string
