@@ -26,13 +26,13 @@
 - [ ] https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 - [x] https://www.codewars.com/kata/convert-a-number-to-a-string
 - [ ] https://www.codewars.com/kata/convert-a-string-to-an-array
-- [ ] https://www.codewars.com/kata/convert-a-number-to-a-string
-- [ ] https://www.codewars.com/kata/convert-an-array-of-strings-to-array-of-numbers
+- [x] https://www.codewars.com/kata/convert-a-number-to-a-string
+- [x] https://www.codewars.com/kata/convert-an-array-of-strings-to-array-of-numbers
 - [ ] https://www.codewars.com/kata/manipulate-url-parameters
-- [ ] https://www.codewars.com/kata/string-basics
-- [ ] https://www.codewars.com/kata/basics-05-text-search
-- [ ] https://www.codewars.com/kata/build-tower
-- [ ] https://www.codewars.com/kata/mylanguages
+- [x] https://www.codewars.com/kata/string-basics
+- [x] https://www.codewars.com/kata/basics-05-text-search
+- [x] https://www.codewars.com/kata/build-tower
+- [x] https://www.codewars.com/kata/mylanguages
 - [ ] https://www.codewars.com/kata/moving-zeros-to-the-end
 - [ ] https://www.codewars.com/kata/sortable-shapes
 
