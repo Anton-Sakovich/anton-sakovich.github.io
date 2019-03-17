@@ -31,6 +31,9 @@ making a program is about. Then, I would like to leave physics completely and de
 
 My codewars account is [Ph.Nerd.Anton](https://www.codewars.com/users/Ph.Nerd.Anton). My progress on the open .net training katas can be found [here](https://anton-sakovich.github.io/portfolio/cwnet).
 
+### Generic collections task
+The [link](https://github.com/Anton-Sakovich/Fibonacci20) to "*The first 20 numbers in the sequence*" task's repo.
+
 ### Padawans.NET
 
 As required, here I will post links to repositories for tasks submitted to Padawans.
